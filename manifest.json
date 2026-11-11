@@ -1,0 +1,14 @@
+{
+	"$schema": "./node_modules/@edgestation/sdk/manifest.schema.json",
+	"name": "Habits",
+	"version": "1.0.0",
+	"description": "A heatmap of your daily habits: one row per habit and one square per day. Tap a square to check that day off and keep your streak going.",
+	"author": "ChainList",
+	"minAppVersion": "0.1.1",
+	"main": "dist/main.js",
+	"icon": "icon.svg",
+	"size": {
+		"w": 4,
+		"h": 1
+	}
+}
